@@ -120,12 +120,12 @@
     display: flex; 
     align-items: center; 
 }
-  logo {
+  #logo {
     max-width: 120px; 
     height: 120px; 
     margin-right: 2.0px; 
 }
-  logo-text {
+  #logo-text {
     font-size: 30px; 
     color: darkorange;
 }
